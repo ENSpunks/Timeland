@@ -15,7 +15,7 @@ Time has long been a central axis of our understanding of the universe, treated 
 
 ---
 
-#### **Postulates of Causal Relativity**
+#### **Postulates of Relativity**
 
 ##### **Newton’s Postulates**:
 

@@ -28,39 +28,6 @@ The idea is that **both the 3D and 2D projections are valid**; they are just dif
 
 #### **Postulates**
 
-We start with a few foundational postulates, including Newton's, Einstein’s, and then propose new ones that define the **causal relativity** framework.
-
----
-
-##### **Newton’s Postulates**:
-
-1. Space and time are absolute and independent of observers.
-2. Forces cause acceleration; gravity acts instantaneously at a distance.
-3. Light behaves as particles, with speed dependent on the observer's motion.
-
-For Newton, **time** is an independent variable, and **space** is absolute. We move from these classical views into the relativistic framework, which requires a **unified view** of space and time.
-
----
-
-##### **Einstein’s Postulates**:
-
-1. The laws of physics are the same in all inertial frames of reference.
-2. The speed of light \( c \) in a vacuum is constant and independent of the motion of the observer or source.
-3. Space and time are unified into 4D spacetime, which curves under mass/energy.
-
-Einstein's theory introduces **spacetime curvature**, where time and space are treated as inseparable components of a 4D continuum. However, this continuum is **modified** in **causal relativity** to treat **space** as 3D, with **time** acting as a **projection** into the spatial framework.
-
----
-
-##### **Causal Relativity Postulates**:
-
-| **Aspect**                      | **Newton's Postulates**                                                 | **Einstein’s Relativity Postulates**                                    | **Causal Relativity Postulates**                                        |
-|---------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Dimensionality & <br> Framework** | **Absolute Space and Time**:<br> - Space and time are absolute and independent. | **4D Spacetime**:<br> - Space and time are unified into a 4D continuum. | **3D Space with 4D Causal Projection**:<br> - Space is fundamentally 3D, observers are projections from a 4D causal manifold. |
-| **Motion & Relativity**          | **Absolute Motion**:<br> - Inertia and acceleration are absolute.<br> - No speed limit for motion. | **Relativity of Motion**:<br> - Physical laws are the same in all inertial frames.<br> - The speed of light is constant. | **Relativity of Frames**:<br> - Observers move at constant velocities, spatial relationships define what is perceived as time. |
-| **Causality & <br> Propagation** | **Instantaneous Action**:<br> - Forces, including gravity, act instantaneously at a distance. | **Causality via Light Cones**:<br> - No information can travel faster than light, defining causality through light cones. | **Causal Propagation**:<br> - Light and gravity propagate as rulers at \( c \), defining causal structure in space. |
-| **Effects of Motion <br> and Mass** | **Classical Effects**:<br> - Motion and mass influence via forces, no spatial curvature. | **Relativistic Effects**:<br> - Time dilation, length contraction, and gravitational effects due to spacetime curvature. | **Spatial Effects**:<br> - Motion and mass cause spatial distortions (contraction, curvature) of "rulers", explaining traditional relativistic effects spatially. |
-| **Unification of Physical Phenomena** | **Separate Laws**:<br> - Gravity and mechanics are described by separate laws. | **Unified Spacetime**:<br> - Gravity and motion are unified through spacetime curvature. | **Unified Spatial Causality**:<br> - All interactions occur within a 3D spatial framework, causality is spatial, not temporal. |
 
 ---
 
@@ -406,28 +373,13 @@ These phenomena highlight key differences and similarities between the two theor
 ---
 
 #### **Section 3: Unified Framework (Mass + Light + Geometry)**  
-1. Combine mass, light, and gravity into a unified geometric model:  
-   - Mass generates intrinsic causal graphs projected into 3D.  
-   - Light propagates these causal graphs outward as spherical waves.  
-   - Gravity alters the geometric propagation of mass and light by curving 3D space.  
 
-2. Reinterpret Einstein's predictions geometrically:  
-   - **Gravitational lensing**: Spatial deflection of causal waves around curved 3D space.  
-   - **Twin paradox**: Differences in causal propagation (light paths) for moving observers.  
-   - **Black holes**: Photon cores representing dense causal singularities.  
+
 
 ---
 
 #### **Conclusion**  
-1. Restate the central tenets of causal relativity:  
-   - Replace spacetime with 3D space + 4D causal matter.  
-   - Use dimensional projections to unify velocity- and gravity-based relativistic effects geometrically.  
 
-2. Dimensional relativity:  
-   - Dimensional projections offer new insights into how physical phenomena manifest differently for observers in varying frames of reference.  
-
-3. Next steps:  
-   - Explore potential extensions to quantum mechanics and experimental verification of the causal geometry model.
 
 ---
 

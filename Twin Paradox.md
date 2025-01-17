@@ -89,10 +89,3 @@ Let's consider a scenario where:
 In Causal Relativity, the Twin Paradox is explained through the geometry of space and the causal interactions within it. Despite reinterpreting time dilation effects as spatial phenomena, the numerical outcome regarding the age difference between the twins remains identical to that of Special Relativity. This reinterpretation maintains the observational outcomes of SR but frames them in spatial terms, removing the need for time as an independent dimension.
 
 ---
-
-#### **Future Work**
-
-- Further mathematical formalization of how causal interactions equate to traditional time-based phenomena.
-- Experimental or observational tests comparing predictions of Causal Relativity with those of SR in scenarios like the Twin Paradox to verify that the outcomes are indeed identical in observable terms.
-
-This approach offers a provocative new way to view and understand relativity, potentially bridging gaps between relativity and other areas of physics by focusing on spatial causality while ensuring consistency with established observational data.

@@ -107,6 +107,32 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 | **Mass + Gravity**   | **Energy of Light in Gravitational Field** | GR           | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)                                      |
 | **Mass + Gravity**   | **Relativistic Doppler Shift**          | SR           | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                             |
 
+---
+
+#### **Causal Geometry Papers**
+
+| **Causal Geometry** | **Phenomenon**                          | **Theory**   | **Equation**                                                                                             | **Confirmed** |
+|---------------------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|---------------|
+| **Light + Gravity**  | **Length Contraction**                   | SR           | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                                                                |               |
+| **Light + Gravity**  | **Time Dilation**                        | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |               |
+| **Light + Gravity**  | **Stretching (Cosmological Expansion)**  | GR           | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \) |               |
+| **Light + Gravity**  | **Relativity of Simultaneity**           | SR           | \( t' = \gamma (t - \frac{vx}{c^2}) \)                                                                  |               |
+| **Light + Gravity**  | **Gravitational Time Dilation**         | GR           | \( d\tau = \sqrt{1 - \frac{2GM}{c^2 r}} \, dt \)                                                       |               |
+| **Light + Gravity**  | **Gravitational Redshift**              | GR           | \( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 \)                                                    |               |
+| **Light + Gravity**  | **Twin Paradox**                        | SR           | N/A (relies on time dilation due to relative motion)                                                      | ✅             |
+| **Mass + Light**     | **Precession**                           | GR           | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)                                                   | ✅             |
+| **Mass + Light**     | **Gravitational Lensing**               | GR           | \( \theta = \frac{4GM}{c^2 R} \)                                                                        |               |
+| **Mass + Light**     | **Spacetime Curvature and Geodesics**   | GR           | \( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 \) |               |
+| **Mass + Light**     | **Frame-Dragging**                      | GR           | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                                                              |               |
+| **Mass + Light**     | **Tidal Forces**                        | GR           | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                                                              |               |
+| **Mass + Light**     | **Black Hole Event Horizon**            | GR           | N/A                                                                                                     |               |
+| **Mass + Light**     | **Stretching of Spacetime**             | GR           | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \) |               |
+| **Mass + Light**     | **Energy-Momentum Tensor**              | GR           | \( G_{\mu\nu} = \frac{8 \pi G}{c^4} T_{\mu\nu} \)                                                      |               |
+| **Mass + Gravity**   | **Mass-Energy Equivalence**             | SR           | \( E = mc^2 \)                                                                                          |               |
+| **Mass + Gravity**   | **Relativistic Mass**                   | SR           | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)                                                         |               |
+| **Mass + Gravity**   | **Time Dilation**                       | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |               |
+| **Mass + Gravity**   | **Energy of Light in Gravitational Field** | GR           | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)                                      |               |
+| **Mass + Gravity**   | **Relativistic Doppler Shift**          | SR           | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                             |               |
 
 ---
 

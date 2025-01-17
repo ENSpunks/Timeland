@@ -70,7 +70,7 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 ##### Mass, Light, Gravity
 
-| **Category**  | **Phenomenon**                  | **Theory**            | **Equation**                                   | **Causal Geometry**                                |
+| **Causal Geometry**  | **Phenomenon**                  | **Theory**            | **Equation**                                   | **Causal Geometry**                                |
 |---------------|----------------------------------|-----------------------|-----------------------------------------------|---------------------------------------------------|
 | **Mass**      | **Newton’s Gravitational Force** | Classical View         | \( F = \frac{Gm_1 m_2}{r^2} \)               | \( K = \frac{GM}{r^2} \) (spatial curvature)      |
 | **Mass**      | **Gravitational Curvature**     | General Relativity     | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | Spatial curvature induced by mass \( K = \frac{GM}{r^2} \) |
@@ -85,24 +85,28 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 ##### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
 
-| **Phenomenon**                  | **Traditional Relativity**                 | **Causal Relativity**                      | **Physical Interpretation**                 |
-|---------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------|
-| **Light Propagation**           | \( t = \frac{d}{c} \)                      | \( r = c \cdot \Delta d \)                | Light's path is a spatial interval, not a temporal one. The spatial distance light travels is proportional to the spatial interval over which it moves. |
-| **Time Dilation (Velocity)**     | \( \Delta t' = \Delta t \sqrt{1 - \frac{v^2}{c^2}} \) | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \) | Velocity changes the spatial length of "rulers" rather than time. The spatial interval contracts. |
-| **Gravitational Time Dilation**  | \( t' = t \sqrt{1 - \frac{2GM}{c^2r}} \)   | \( \Delta L' = \Delta L \sqrt{1 - \frac{2GM}{c^2r}} \) | Mass causes spatial curvature, altering the length of spatial intervals in the presence of gravity. |
-| **Mass-Energy Equivalence**      | \( E = mc^2 \)                             | \( E = mc^2 \) (unchanged)                | Energy and mass are still interchangeable but interpreted in terms of spatial energy distribution. |
-| **Gravitational Force**          | \( F = \frac{Gm_1 m_2}{r^2} \)             | \( K = \frac{GM}{r^2} \)                  | Gravity is spatial curvature rather than a force over time; \( K \) represents the curvature strength. |
-| **Relativistic Doppler Shift**   | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \) | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \) (unchanged) | Frequency shift due to spatial motion, interpreted in terms of spatial wave compression or expansion. |
-| **Length Contraction**           | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)   | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \) (unchanged) | Spatial contraction due to relative motion is a direct spatial effect, not a time-related phenomenon. |
-| **Gravitational Lensing**        | \( \theta = \frac{4GM}{c^2 R} \)           | \( \theta = \frac{4GM}{c^2 R} \) (unchanged) | Light bending is due to spatial curvature, not spacetime curvature. |
-| **Relativity of Simultaneity**   | \( t' = \gamma (t - \frac{vx}{c^2}) \)     | \( \Delta x' = \gamma (\Delta x - v \Delta t) \) | Simultaneity is redefined in terms of spatial relationships rather than temporal ones. Note: This transformation assumes a spatial interpretation of time intervals. |
-| **Gravitational Redshift**       | \( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 \) | \( z = \frac{\Delta L}{L_0} - 1 \)       | Redshift interpreted as a change in spatial intervals rather than frequency due to time dilation. |
+| **Causal Geometry** | **Phenomenon**                          | **Theory**   | **Equation**                                                                                             |
+|---------------------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|
+| **Light + Gravity**  | **Length Contraction**                   | SR           | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                                                                |
+| **Light + Gravity**  | **Time Dilation**                        | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |
+| **Light + Gravity**  | **Stretching (Cosmological Expansion)**  | GR           | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \) |
+| **Light + Gravity**  | **Relativity of Simultaneity**           | SR           | \( t' = \gamma (t - \frac{vx}{c^2}) \)                                                                  |
+| **Light + Gravity**  | **Gravitational Time Dilation**         | GR           | \( d\tau = \sqrt{1 - \frac{2GM}{c^2 r}} \, dt \)                                                       |
+| **Light + Gravity**  | **Gravitational Redshift**              | GR           | \( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 \)                                                    |
+| **Mass + Light**     | **Precession**                           | GR           | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)                                                   |
+| **Mass + Light**     | **Gravitational Lensing**               | GR           | \( \theta = \frac{4GM}{c^2 R} \)                                                                        |
+| **Mass + Light**     | **Spacetime Curvature and Geodesics**   | GR           | \( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 \) |
+| **Mass + Light**     | **Frame-Dragging**                      | GR           | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                                                              |
+| **Mass + Light**     | **Tidal Forces**                        | GR           | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                                                              |
+| **Mass + Light**     | **Black Hole Event Horizon**            | GR           | N/A                                                                                                     |
+| **Mass + Light**     | **Stretching of Spacetime**             | GR           | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \) |
+| **Mass + Light**     | **Energy-Momentum Tensor**              | GR           | \( G_{\mu\nu} = \frac{8 \pi G}{c^4} T_{\mu\nu} \)                                                      |
+| **Mass + Gravity**   | **Mass-Energy Equivalence**             | SR           | \( E = mc^2 \)                                                                                          |
+| **Mass + Gravity**   | **Relativistic Mass**                   | SR           | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)                                                         |
+| **Mass + Gravity**   | **Time Dilation**                       | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |
+| **Mass + Gravity**   | **Energy of Light in Gravitational Field** | GR           | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)                                      |
+| **Mass + Gravity**   | **Relativistic Doppler Shift**          | SR           | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                             |
 
-**Notes:**
-- **\(\Delta L\)** and **\(\Delta L'\)** represent spatial intervals in different frames or under different conditions.
-- **\(\gamma\)** is the Lorentz factor: \(\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}\).
-- The traditional equations use time \( t \), whereas Causal Relativity uses spatial intervals \( \Delta d \) or \( \Delta L \).
-- Equations that remain unchanged in form might have different interpretations in your model, focusing on spatial rather than temporal effects.
 
 ---
 

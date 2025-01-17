@@ -114,7 +114,36 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 ---
 
-#### **Causal Geometry Papers**
+##### Mass+Light+Gravity
+
+| **Causal Geometry** | **Phenomenon**                  | **Original Equation**                           | **Causal Relativity Equation**                          |
+|---------------------|---------------------------------|------------------------------------------------|---------------------------------------------------------|
+| **Mass+Light+Gravity** | **Unification of Special Relativity (SR) and General Relativity (GR)**        | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)              | \( ds^2 = g_{ij} dx^i dx^j \)                            |
+| **Mass+Light+Gravity** | **Singularities (Black Holes/Big Bang)** | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left( 1 - \frac{r_s}{r} \right) dr^2 + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 \)  |
+| **Mass+Light+Gravity** | **Quantum Gravity**             | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \) (with quantum corrections) | \( ds^2 = g_{\mu\nu} dx^\mu dx^\nu + \hbar^2 \text{quantum corrections} \) |
+
+---
+
+#### **Conclusion**
+
+
+
+---
+
+#### **Other Casual Theories**
+
+| **Theory**                    | **Concept**                                                                 | **Difference**                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Causal Set Theory**         | Proposes that spacetime is fundamentally discrete, and the causal relationships between events define the geometry. | Still operates within a 4D spacetime framework. Causal Relativity seeks to eliminate time as an independent dimension. |
+| **Causal Dynamical Triangulations (CDT)** | A quantum gravity approach where spacetime is constructed from discrete building blocks, with a well-defined causal structure. | Uses time as a dimension to maintain causality; Causal Relativity aims for a purely spatial interpretation. |
+| **Causal Fermion Systems**    | Aims at unifying all fundamental forces by describing spacetime as emerging from causal structures of fermion systems. | Maintains a spacetime framework; does not eliminate time but reinterprets its emergence. |
+| **Causal Graph Theory in Physics** | Used to model causal relationships in quantum field theory or statistical mechanics, typically via directed graphs. | Works within existing spacetime dimensions, focusing on causal order without altering time's dimensionality. |
+| **Shape Dynamics**             | Considers the evolution of spatial shapes instead of spacetime.             | Involves time but reinterprets it through spatial changes; Causal Relativity aims for a relativistic interpretation without time. |
+| **Emergent Space-Time Theories** | Theories where spacetime emerges from more fundamental entities or structures (e.g., Erik Verlinde's Emergent Gravity). | Time remains, often as an emergent property, contrasting with Causal Relativity's aim to remove time as a fundamental dimension. |`​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
+---
+
+## **Appendix**
 
 | **Causal Geometry** | **Phenomenon**                          | **Theory**   | **Equation**                                                                                             | **Confirmed** |
 |---------------------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|---------------|
@@ -138,47 +167,6 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 | **Mass + Gravity**   | **Time Dilation**                       | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |               |
 | **Mass + Gravity**   | **Energy of Light in Gravitational Field** | GR           | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)                                      |               |
 | **Mass + Gravity**   | **Relativistic Doppler Shift**          | SR           | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                             |               |
-
----
-
-#### **Resolving Singularities**
-
-One of the most significant implications of causal relativity is the resolution of singularities. In Einstein's general relativity, singularities are points where spacetime curvature becomes infinite. In causal relativity, these are replaced with finite spatial distortions, governed by the geometry of 3D space.
-
-- **Black Holes**: The event horizon becomes a region of extreme but finite spatial curvature, where time ceases to exist as an independent construct. Observers experience these distortions as causal effects, rather than infinite density or infinite time dilation.
-
----
-
-#### **Applications and Implications**
-
-1. **Cosmology**: By eliminating time as a fundamental dimension, causal relativity offers new models for the origin and evolution of the universe. The Big Bang can be reinterpreted as a spatial expansion without the need for an initial singularity.
-
-2. **Quantum Gravity**: The unification of relativistic and quantum phenomena may be achievable by treating all interactions as spatially causal relationships, bypassing the challenges of merging spacetime with quantum mechanics.
-
-3. **Visualization and Simulation**: Timeland and causal geometry provide intuitive tools for visualizing complex relativistic phenomena, aiding in education and research.
-
----
-
-#### **Other Casual Theories**
-
-| **Theory**                    | **Concept**                                                                 | **Difference**                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| **Causal Set Theory**         | Proposes that spacetime is fundamentally discrete, and the causal relationships between events define the geometry. | Still operates within a 4D spacetime framework. Causal Relativity seeks to eliminate time as an independent dimension. |
-| **Causal Dynamical Triangulations (CDT)** | A quantum gravity approach where spacetime is constructed from discrete building blocks, with a well-defined causal structure. | Uses time as a dimension to maintain causality; Causal Relativity aims for a purely spatial interpretation. |
-| **Causal Fermion Systems**    | Aims at unifying all fundamental forces by describing spacetime as emerging from causal structures of fermion systems. | Maintains a spacetime framework; does not eliminate time but reinterprets its emergence. |
-| **Causal Graph Theory in Physics** | Used to model causal relationships in quantum field theory or statistical mechanics, typically via directed graphs. | Works within existing spacetime dimensions, focusing on causal order without altering time's dimensionality. |
-| **Shape Dynamics**             | Considers the evolution of spatial shapes instead of spacetime.             | Involves time but reinterprets it through spatial changes; Causal Relativity aims for a relativistic interpretation without time. |
-| **Emergent Space-Time Theories** | Theories where spacetime emerges from more fundamental entities or structures (e.g., Erik Verlinde's Emergent Gravity). | Time remains, often as an emergent property, contrasting with Causal Relativity's aim to remove time as a fundamental dimension. |`​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-
----
-
-#### **Conclusion**
-
-
----
-
-## **Appendix**
-- 
 
 ---
 

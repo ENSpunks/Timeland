@@ -39,8 +39,6 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 ##### **Causal Relativity Postulates**:
 
-##### **Postulates of Causal Relativity**:
-
 1. Mass is the 3D cross-section of a 4D manifold, with the 4D volume of the observer projected as quantized mass in 3D space.
 2. Light is a massless form of energy \( E \) that propagates outward from mass in all directions at the speed of causality \( c \), creating a causal light sphere.
 3. Gravity is the curvature of 3D space in the presence of a 3D cross-section of a 4D manifold, propagating outward from mass in all directions at the speed of causality \( c \), forming a causal gravity sphere.

@@ -374,6 +374,14 @@ These phenomena highlight key differences and similarities between the two theor
 
 #### **Mass + Light + Geometry**  
 
+Here's the updated table with the requested modifications:
+
+| **Causal Geometry** | **Phenomenon**                  | **Original Equation**                           | **Causal Relativity Equation**                          |
+|---------------------|---------------------------------|------------------------------------------------|---------------------------------------------------------|
+| **Mass+Light+Gravity** | **Unification of Special Relativity (SR) and General Relativity (GR)**        | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \)              | \( ds^2 = g_{ij} dx^i dx^j \)                            |
+| **Mass+Light+Gravity** | **Singularities (Black Holes/Big Bang)** | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu} \) | \( ds^2 = \left( 1 - \frac{r_s}{r} \right) dr^2 + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 \)  |
+| **Mass+Light+Gravity** | **Quantum Gravity**             | \( ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2 \) (with quantum corrections) | \( ds^2 = g_{\mu\nu} dx^\mu dx^\nu + \hbar^2 \text{quantum corrections} \) |
+
 ### **Unification of Special and General Relativity:**
 Rather than separating velocity and gravitational time dilation, the unified model merges them through a single causal geometry framework. In this model, time dilation, spatial contraction, and the effects of gravity are understood as manifestations of a unified causal geometry, with both phenomena being different aspects of the same geometric structure.
 

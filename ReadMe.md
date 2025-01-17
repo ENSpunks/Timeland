@@ -133,24 +133,21 @@ One of the most significant implications of causal relativity is the resolution 
 | **Causal Fermion Systems**    | Aims at unifying all fundamental forces by describing spacetime as emerging from causal structures of fermion systems. | Maintains a spacetime framework; does not eliminate time but reinterprets its emergence. |
 | **Causal Graph Theory in Physics** | Used to model causal relationships in quantum field theory or statistical mechanics, typically via directed graphs. | Works within existing spacetime dimensions, focusing on causal order without altering time's dimensionality. |
 | **Shape Dynamics**             | Considers the evolution of spatial shapes instead of spacetime.             | Involves time but reinterprets it through spatial changes; Causal Relativity aims for a relativistic interpretation without time. |
-| **Emergent Space-Time Theories** | Theories where spacetime emerges from more fundamental entities or structures (e.g., Erik Verlinde's Emergent Gravity). | Time remains, often as an emergent property, contrasting with Causal Relativity's aim to remove time as a fundamental dimension. |
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+| **Emergent Space-Time Theories** | Theories where spacetime emerges from more fundamental entities or structures (e.g., Erik Verlinde's Emergent Gravity). | Time remains, often as an emergent property, contrasting with Causal Relativity's aim to remove time as a fundamental dimension. |`​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
 #### **Conclusion**
 
-The Theory of Causal Relativity offers a compelling alternative to traditional spacetime models, replacing the 4D continuum with a 3D causal geometry. By treating time as a spatial projection, this framework unifies relativistic effects, resolves singularities, and provides a foundation for exploring the universe's causal structure. Future work will focus on formalizing the mathematical underpinnings of causal geometry and exploring its implications for cosmology, quantum mechanics, and beyond.
 
 ---
 
 ## **Appendix**
-- Mathematical derivations and visualizations of key concepts (e.g., unifying time dilation geometrically, photon core density).  
-- Comparison tables of predictions: General Relativity vs. the proposed model.  
+- 
 
 ---
 
 ## **References**
-- Key works in relativity, quantum mechanics, and emergent spacetime theories.  
+-  
 
 ---

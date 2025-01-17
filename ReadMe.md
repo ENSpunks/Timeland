@@ -39,13 +39,14 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 ##### **Causal Relativity Postulates**:
 
-| **Aspect**                      | **Newton's Postulates**                                                 | **Einstein’s Relativity Postulates**                                    | **Causal Relativity Postulates**                                        |
-|---------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Dimensionality & <br> Framework** | **Absolute Space and Time**:<br> - Space and time are absolute and independent. | **4D Spacetime**:<br> - Space and time are unified into a 4D continuum. | **3D Space with 4D Causal Projection**:<br> - Space is fundamentally 3D, observers are projections from a 4D causal manifold. |
-| **Motion & Relativity**          | **Absolute Motion**:<br> - Inertia and acceleration are absolute.<br> - No speed limit for motion. | **Relativity of Motion**:<br> - Physical laws are the same in all inertial frames.<br> - The speed of light is constant. | **Relativity of Frames**:<br> - Observers move at constant velocities, spatial relationships define what is perceived as time. |
-| **Causality & <br> Propagation** | **Instantaneous Action**:<br> - Forces, including gravity, act instantaneously at a distance. | **Causality via Light Cones**:<br> - No information can travel faster than light, defining causality through light cones. | **Causal Propagation**:<br> - Light and gravity propagate as rulers at \( c \), defining causal structure in space. |
-| **Effects of Motion <br> and Mass** | **Classical Effects**:<br> - Motion and mass influence via forces, no spatial curvature. | **Relativistic Effects**:<br> - Time dilation, length contraction, and gravitational effects due to spacetime curvature. | **Spatial Effects**:<br> - Motion and mass cause spatial distortions (contraction, curvature) of "rulers", explaining traditional relativistic effects spatially. |
-| **Unification of Physical Phenomena** | **Separate Laws**:<br> - Gravity and mechanics are described by separate laws. | **Unified Spacetime**:<br> - Gravity and motion are unified through spacetime curvature. | **Unified Spatial Causality**:<br> - All interactions occur within a 3D spatial framework, causality is spatial, not temporal. |
+##### **Postulates of Causal Relativity**:
+
+1. Mass is the 3D cross-section of a 4D manifold, with the 4D volume of the observer projected as quantized mass in 3D space.
+2. Light is a massless form of energy \( E \) that propagates outward from mass in all directions at the speed of causality \( c \), creating a causal light sphere.
+3. Gravity is the curvature of 3D space in the presence of a 3D cross-section of a 4D manifold, propagating outward from mass in all directions at the speed of causality \( c \), forming a causal gravity sphere.
+4. Mass, light, and gravity can be unified geometrically between any two observers in relative inertial frames, independent of a time dimension.
+
+These postulates define the foundational framework of causal relativity, where the geometric interactions of mass, light, and gravity are treated as manifestations of a higher-dimensional manifold and described geometrically in 3D space.
 
 ---
 

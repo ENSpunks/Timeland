@@ -5,6 +5,9 @@
 
 The Theory of Causal Relativity proposes a causal geometry independent of time.
 
+❌ 3D observers moving through time  
+✅ 4D observers moving through 3D space  
+
 ---
 
 #### **Introduction**

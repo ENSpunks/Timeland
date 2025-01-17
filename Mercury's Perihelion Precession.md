@@ -84,10 +84,3 @@ Using these values:
 In Causal Relativity, Mercury's perihelion precession is accounted for by the spatial curvature due to the Sun's mass, which influences Mercury's orbit without the need for time as an independent dimension. This approach maintains the observational outcome of 43 arcseconds per century, consistent with General Relativity, but reframes the explanation in purely spatial terms.
 
 ---
-
-#### **Future Work**
-
-- Further mathematical development to rigorously translate GR's tensor equations into causal geometry's spatial framework.
-- Propose and analyze experiments or observations where Causal Relativity might offer new insights or where deviations from GR could be detected if they exist.
-
-This reinterpretation provides a novel perspective on gravitational phenomena, potentially offering new avenues for understanding the universe's structure while aligning with the established empirical data.

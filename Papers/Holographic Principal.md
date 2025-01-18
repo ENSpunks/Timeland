@@ -1,9 +1,5 @@
 # Causal Relativity: Holographic Principle Without Time
 
-### Definitions
-
-- **Holomass:** In the context of Causal Relativity, holomass is quantized mass that, according to the Holographic Principle, is encoded on the boundary of the spatial curvature rather than being distributed throughout a 3D volume. This boundary is where the information content of the mass is stored, reflecting the idea that all physical information within a region of space can be described by its surface.
-
 ### Holographic Principle in the Context of Causal Relativity
 
 | **Causal Geometry** | **Phenomenon** | **Original Equation** | **Causal Relativity Equation** |
@@ -13,6 +9,8 @@
 ## Summary of Interpretation
 
 The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, specifically the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where holomass and light interact, with the gravity shell mediating these interactions. 
+
+**Holomass:** In the context of Causal Relativity, holomass is quantized mass that, according to the Holographic Principle, is encoded on the boundary of the spatial curvature rather than being distributed throughout a 3D volume. This boundary is where the information content of the mass is stored, reflecting the idea that all physical information within a region of space can be described by its surface.
 
 **Holomass and Photon Emission:** Holomass, as encoded on the boundary of space curvature, is the source from which photons are emitted. Although the boundary and the emission of photons conceptually overlap, it's the quantized mass (holomass) itself that emits these photons, not the boundary. This maintains the geometric unity between quantized mass and light quanta within the 3D spatial framework.
 

@@ -11,7 +11,7 @@ The Theory of Causal Relativity proposes a spatial causal geometry independent o
 
 Time has long been a central axis of our understanding of the universe, treated either as an independent variable in Newtonian mechanics or as an inseparable component of spacetime in Einstein's theory of relativity. However, the conceptual challenges posed by time—such as black holes singularities and the infinite regression of "when"—hint at the possibility that time might not be fundamental but rather an emergent or projected property.
 
-**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, Timeland frames the experience of time as a projection of higher-dimensional spatial relationships. 
+**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, Timeland frames the experience of time as causal interactions in Flatland. 
 
 The Theory of Causal Relativity builds on this analogy, treating time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
 

@@ -6,7 +6,7 @@ This paper explores the concept of simultaneity within the Causal Relativity geo
 
 ## 1. Introduction
 
-In Einstein's theory of relativity, simultaneity is relative to the observer's frame of reference. This relativity arises from the constancy of the speed of light, leading to scenarios where two events that are simultaneous in one observer's frame are not simultaneous in another's. However, in the E=mc² Causal Relativity framework, simultaneity is understood not as a temporal synchronization across frames, but rather as the intersection of expanding causal shells.
+In Einstein's theory of relativity, simultaneity is relative to the observer's frame of reference. This relativity arises from the constancy of the speed of light, leading to scenarios where two events that are simultaneous in one observer's frame are not simultaneous in another's. However, in the Causal Relativity framework, simultaneity is understood not as a temporal synchronization across frames, but rather as the intersection of expanding causal shells.
 
 These causal shells represent the propagation of energy (light) and gravitational influence emanating from mass, moving outward at the speed of light. In this model, events become simultaneous when their causal shells intersect at the same spatial point, which is consistent with observations but does not require a time coordinate. This approach removes the traditional time coordinate from relativity and gives rise to a purely spatial interpretation of simultaneity. Furthermore, we explore how this framework offers a new perspective on simultaneity, avoiding the complexities of traditional spacetime while maintaining consistency with relativistic principles.
 

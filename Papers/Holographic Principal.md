@@ -8,7 +8,7 @@
 
 ## Summary of Interpretation
 
-The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where quantized mass and light interact, with the gravity shell mediating these interactions.
+The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where holomass and light interact, with the gravity shell mediating these interactions.
 
 **Holomass:** In this context, holomass is quantized mass encoded on the boundary of spatial curvature, reflecting the idea that all physical information within a region of space can be described by its surface in discrete units of Planck area.
 

@@ -9,9 +9,9 @@ The Theory of Causal Relativity proposes a spatial causal geometry independent o
 
 #### **Introduction**
 
-Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. This theory unifies phenomena traditionally described by separate velocity-dependent and gravity-dependent equations in 4D spacetime into a single, coherent Causal Geometry equation for 3D space. Moreover, Causal Relativity offers a resolution to General Relativity's singularities without requiring a quantum theory of gravity.
+**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, where relative to a circle moving through 3D Timeland fabric, but to the 3D observer this is flstland moving relative to a Sphere in 3D space without time.
 
-**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, Timeland frames the experience of time as causal interactions in Flatland. 
+The Theory of Causal Relativity builds on this analogy disregarding time time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
 
 The Theory of Causal Relativity builds on this analogy, treating time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
 
@@ -127,7 +127,7 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 #### **Conclusion**
 
-
+Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. This theory unifies phenomena traditionally described by separate velocity-dependent and gravity-dependent equations in 4D spacetime into a single, coherent Causal Geometry equation for 3D space. Moreover, Causal Relativity offers a resolution to General Relativity's singularities without requiring a quantum theory of gravity.
 
 ---
 

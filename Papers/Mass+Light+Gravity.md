@@ -1,8 +1,12 @@
-Here's the table based on your description for the Holographic Principle in the context of Causal Relativity:
+#### **Mass+Light+Gravity** 
 
-| **Causal Geometry** | **Phenomenon** | **Theory** | **Equation** | **Interpretation** |
-|---------------------|----------------|------------|--------------|--------------------|
-| **Mass+Light+Gravity** | **Holographic Principle** | Causal Relativity | \( A = 4\pi r^2 \) <br> (Surface area of a sphere) | In Causal Geometry, the volume of space (3D) is encoded on the 2D boundary (gravity causal shell). The gravity shell acts as the boundary where quantized mass (FutureSpace) and photons (PastSpace) are encoded. The gravity shell with radius \( r \) defines the surface where:<br>- **Quantized Mass** (FutureSpace) is encoded on one side of the boundary.<br>- **Photons** propagate outward from the other side of this boundary at speed \( c \). Thus, gravity is conceptualized as the interface or boundary that mediates the interaction between mass and light, with each aspect of physics encoded on this surface according to the curvature of space. |
+Holographic Principle in the context of Causal Relativity:
+
+Here's the updated table with the specified columns:
+
+| **Causal Geometry** | **Phenomenon** | **Original Equation** | **Causal Relativity Equation** |
+|---------------------|----------------|-----------------------|-------------------------------|
+| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( A = 4\pi r^2 \) |
 
 ### Notes on the Interpretation:
 - **Surface Area**: The equation \( A = 4\pi r^2 \) represents the area where information of the 3D space is encoded in a 2D manner, akin to how the holographic principle suggests that the information of a volume of space can be described by data on its boundary.

@@ -1,6 +1,3 @@
-Certainly! Below is a finalized version of the paper, incorporating all the theoretical expansion and physical interpretations, along with the mathematical formulation of energy exchange in a causal system involving \( n \) observers.
-
----
 
 # **Energy Exchange in Causal Relativity: From Two-Body to \( n \)-Body Systems**
 

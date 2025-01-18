@@ -1,5 +1,14 @@
 ## **Theory of Causal Relativity: Unifying Relativity without Time**
 
+---
+
+Punks  
+Cypherpunks  
+enspunks.eth  
+https://enspunks.eth.link  
+
+---
+
 #### **Abstract**
 
 The **Theory of Causal Relativity** proposes a purely spatial **Causal Geometry** independent of spacetime or any time dimension. 

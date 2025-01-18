@@ -71,7 +71,7 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 ##### Mass, Light, Gravity
 
-| **Causal Geometry**  | **Phenomenon**                  | **Theory**            | **Equation**                                   | **Causal Geometry**                                |
+| **Causal Geometry**  | **Phenomenon**                  | **Theory**            | **Original Equations**                                   | **Causal Relativity Equation**                                |
 |---------------|----------------------------------|-----------------------|-----------------------------------------------|---------------------------------------------------|
 | **Mass**      | **Newton’s Gravitational Force** | Classical View         | \( F = \frac{Gm_1 m_2}{r^2} \)               | \( K = \frac{GM}{r^2} \) (spatial curvature)      |
 | **Mass**      | **Gravitational Curvature**     | General Relativity     | \( R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8 \pi G}{c^4}T_{\mu\nu} \) | Spatial curvature induced by mass \( K = \frac{GM}{r^2} \) |
@@ -86,7 +86,7 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 ##### Light+Gravity (SR), Mass+Light (GR), Mass+Mass (GR)
 
-| Causal Geometry   | Phenomenon                                | Theory | Equation (with time)                                                                                                                                                                                | Causal Geometry                                                                                       |
+| Causal Geometry   | Phenomenon                                | Theory | Original Equation                                                                                                                                                                                 | Causal Relativity Equation                                                                                       |
 |-------------------|-------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | Light + Gravity   | Length Contraction                        | SR     | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                                                                                                                                                              | \( L' = L \sqrt{1 - \frac{v^2}{c^2}} \) (spatial contraction)                                          |
 | Light + Gravity   | Time Dilation                             | SR     | \( \Delta t' = \gamma \Delta t \)                                                                                                                                                                  | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \) (spatial dilation)                              |
@@ -123,9 +123,9 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 ##### Mass+Light+Gravity
 
-| **Causal Geometry** | **Phenomenon** | **Original Equation** | **Causal Relativity Equation** |
+| **Causal Geometry** | **Phenomenon** | **Spacetime Equations** | **Causal Relativity Equations** |
 |---------------------|----------------|-----------------------|-------------------------------|
-| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( A = 4\pi r^2 \) |
+| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( S = \frac{\pi r^2}{l_p^2} \) |
 
 ---
 

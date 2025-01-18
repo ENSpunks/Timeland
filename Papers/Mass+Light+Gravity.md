@@ -2,8 +2,6 @@
 
 Holographic Principle in the context of Causal Relativity:
 
-Here's the updated table with the specified columns:
-
 | **Causal Geometry** | **Phenomenon** | **Original Equation** | **Causal Relativity Equation** |
 |---------------------|----------------|-----------------------|-------------------------------|
 | **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( A = 4\pi r^2 \) |

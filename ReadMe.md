@@ -3,7 +3,7 @@
 
 #### **Abstract**
 
-The Theory of Causal Relativity proposes a causal geometry independent of time.
+The Theory of Causal Relativity proposes a purely spatial causal geometry independent of time.
 
 ---
 

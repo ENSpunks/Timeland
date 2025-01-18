@@ -145,6 +145,3 @@ By integrating the dynamics of moving masses into our spatial interpretation of 
 - **Software Tools:**
   - [SageMath](https://www.sagemath.org/) - Useful for performing complex calculations related to geometry and relativity.
   - [Python's SciPy and NumPy](https://scipy.org/) - For numerical simulations that could help visualize or predict outcomes of the Causal Relativity model.
-
-This list provides a starting point for further research or practical exploration of the concepts discussed in this paper.
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​

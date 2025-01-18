@@ -55,7 +55,7 @@ Causal Relativity introduces **Casual Geometry** a framework without a time dime
 
 Where Spacetime Geometry had lightcones, Causal Geometry presents 3 causal spheres Mass, Light, and Gravity which interact and create intrinsic causal spatial coordinates relative to itself, other spheres, and 3D space.
 
-The simplisity of Casual Geometry results in an intuitive visual diagram, like Feynman diagram's for Casuak Relativity and the 3 Spheres in temporal terms, generally as:
+The simplicity of the the 3 Spheres results in an intuitive set of geometrical shapes, like Feynman diagram's for relativistic effects, where the spatial coordinates relative to the 3 Spheres can be referred to in temporal terms, generally as:
 
 - **Mass Cores:** FutureSpace or quantized mass.
 

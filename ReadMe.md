@@ -51,7 +51,7 @@ Causal Relativity introduces **Casual Geometry** a framework without a time dime
  
 ---
 
-#### **Spheres**
+#### **Causal Spheres**
 
 - **Mass Cores:** Each mass is visualized as a sphere in 3D space  representing the 3D cross-section of a 4D hyphersphere moving through 3D space at a constant velocity projecting its volume into the 3D cross section as quantized mass.
 

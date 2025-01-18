@@ -3,7 +3,7 @@
 
 #### **Abstract**
 
-The Theory of Causal Relativity proposes a purely spatial causal geometry independent of time.
+The Theory of Causal Relativity proposes a purely spatial causal geometry independent of any time dimension or cooridnate.
 
 ---
 
@@ -11,7 +11,9 @@ The Theory of Causal Relativity proposes a purely spatial causal geometry indepe
 
 Time has long been a central axis of our understanding of the universe, treated either as an independent variable in Newtonian mechanics or as an inseparable component of spacetime in Einstein's theory of relativity. However, the conceptual challenges posed by time—such as black holes singularities and the infinite regression of "when"—hint at the possibility that time might not be fundamental but rather an emergent or projected property.
 
-**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, Timeland frames the experience of time as a projection of higher-dimensional spatial relationships. The Theory of Causal Relativity builds on this analogy, treating time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
+**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, Timeland frames the experience of time as a projection of higher-dimensional spatial relationships. 
+
+The Theory of Causal Relativity builds on this analogy, treating time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
 
 ---
 
@@ -39,22 +41,22 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 ##### **Causal Relativity Postulates**:
 
-1. Mass is the cross-section of a 4D manifold in 3D space and quantized mass is a projection of 4D volume of the manifold.
-2. Photons propagates outward from mass in all directions at the speed of causality \( c \) creating a causal light sphere relative to an inertial frame of referene.
-3. Gravity is the curvature of 3D space by mass and propagates outward from the mass in all directions at the speed of causality \( c \) creating a causal light sphere relative to an inertial frame of referene.
-4. Mass, light, and gravity can be unified geometrically between any two observers in relative inertial frames, independent of a time dimension.
+1. The laws of physics are the same in all inertial frames of reference.
+2. All quantized energy is embedded in a three-dimensional space.
+3. Quantized light, or photons,  propagate outward from quantized mass creating an instrinsic casual sphere. 
+4. Mass curves 3D space which propagates outward from mass creating an instrinsic casual sphere.
 
-These postulates define the foundational framework of causal relativity, where the geometric interactions of mass, light, and gravity are treated as manifestations of a higher-dimensional manifold and described geometrically in 3D space.
-
+Causal Relativity introduces **Casual Geometry** a framework without a 4D spacetime or any time dimension. 
+ 
 ---
 
-#### **Core Concepts**
+#### **Spheres**
 
 - **Mass Cores:** Each mass is visualized as a sphere in 3D space  representing the 3D cross-section of a 4D hyphersphere moving through 3D space at a constant velocity projecting its volume into the 3D cross section as quantized mass.
 
 - **Causal Light Shell:** Mass emits light, forming an expanding shell at the speed of causality, carrying the energy information of the mass as massless quanta.
 
-- **Causal Gravity Sphere:** Gravity is the curvature of 3D space by mass and propagting outward as a shell at the speed of causality.
+- **Causal Gravity Shell:** Gravity is the curvature of 3D space by mass and propagting outward as a shell at the speed of causality.
 
 - **Observer Independence:** The interaction of these spheres and shells with others is frame-independent, described through spatial geometry, not time.
 

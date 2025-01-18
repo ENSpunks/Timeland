@@ -50,17 +50,13 @@ These postulates define the foundational framework of causal relativity, where t
 
 #### **Core Concepts**
 
-##### **1. Timeland as a Causal Construct**
+- **Central Sphere (Mass):** Each mass is visualized as a sphere in 3D space, representing the 3D cross-section of a 4D manifold where the mass's 4D volume is projected.
 
-Timeland provides an accessible analogy for visualizing causal relativity. In Timeland, the trajectory of a sphere through a plane creates a series of concentric circles—analogous to the "flow" of time experienced by observers in 3D. While the 2D inhabitants of the plane perceive the circles as independent entities, they are, in fact, projections of a single 3D object. Similarly, causal relativity posits that time is a projection of higher-dimensional spatial relationships.
+- **Causal Light Shell:** Mass emits light, forming an expanding shell at the speed of light, carrying the energy information of the mass as photons.
 
-##### **2. Time as a Projection of 4D space into 3D Space**
+- **Causal Gravity Sphere:** Gravity is the curvature of space around the mass, forming another expanding shell that warps space inversely proportional to distance.
 
-The apparent passage of time arises from the spatial relationships and motion between objects. For example, the velocity of an object through space determines its observed "time flow," with faster objects experiencing greater spatial contraction (interpreted as time dilation).
-
-##### **3. Gravitational Curvature in 3D Space**
-
-In causal geometry, gravitational effects are described as spatial distortion rather than spacetime curvature. Mass induces curvature within 3D space, and the perceived effects of gravity and time dilation emerge as geometric properties of this curvature. Singularities, such as those predicted by general relativity in black holes, are resolved as finite spatial distortions.
+- **Observer Independence:** The interaction of these spheres and shells with others is frame-independent, described through spatial geometry, not time.
 
 ---
 

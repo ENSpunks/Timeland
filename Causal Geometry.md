@@ -7,7 +7,7 @@
 
 **Overview of Causal Geometry:**
 
-In this theory, we propose a paradigm shift from Einstein’s 4D spacetime continuum to **causal relativity**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic causal coordinates**. 
+In this theory, we propose a paradigm shift from Einstein’s 4D spacetime continuum to **causal relativity**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic causal coordinates**.
 
 Causal geometry reinterprets key relativistic phenomena like **simultaneity**, **time dilation**, and **black holes** as purely **spatial effects**, unifying velocity- and gravity-induced distortions geometrically. Mass, light, and gravity are modeled as **spatial phenomena** that interact within a unified **3D space** framework rather than 4D spacetime.
 
@@ -16,15 +16,6 @@ This transition will be shown mathematically by transforming traditional relativ
 ---
 
 #### **Introduction**
-
-**Dimensional Relativity:**
-
-Dimensional relativity introduces a new perspective using the **4D hypersphere** as the foundational concept. To illustrate how time is transformed into spatial terms, we begin with the projection of the hypersphere in various dimensions.
-
-- **4D Hypersphere**: When viewed from a 3D perspective, the 4D hypersphere projects as a **3D sphere**. As we reduce the dimensionality further:
-  - In a **2D projection**, the hypersphere becomes three concentric circles representing different shells (inner core and two outer shells).
-
-The idea is that **both the 3D and 2D projections are valid**; they are just different **dimensional perspectives** of the same 4D object. In causal geometry, **time** is treated as a similar projection in **3D space**.
 
 ---
 

@@ -1,9 +1,9 @@
 
-### **Theory of Causal Relativity**
+## **Theory of Causal Relativity: Unifying Relativity without Time**
 
 #### **Abstract**
 
-The Theory of Causal Relativity proposes a spatial causal geometry independent of spacetime or a time dimension. 
+The Theory of Causal Relativity proposes a spatial causal geometry independent of spacetime or any time dimension. 
 
 ---
 

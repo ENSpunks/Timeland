@@ -125,7 +125,13 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 #### **Conclusion**
 
-Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. This theory unifies phenomena traditionally described by separate velocity-dependent and gravity-dependent equations in 4D spacetime into a single, coherent Causal Geometry equation for 3D space. Moreover, Causal Relativity offers a resolution to General Relativity's singularities without requiring a quantum theory of gravity.
+The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity outcomes through an entirely new framework and interpretation.
+
+One example is **simultaneity**, Causal Geometry creates an entirely new geometrical framework for **simultaneity** without a time dimension or coordinate.  Similiarly, Casual Relativity unifies velocity-dependent and gravity-dependent equations into a single, coherent Causal Geometry equation for 3D space, providing a new geometry for calculating dilation in 3D space without a spacetime tensor. 
+
+Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. 
+
+More speculatively, Causal Relativity offers a potential resolution to singularities - black holes/Big Bang - in Relativity without requiring a quantum theory of gravity.
 
 ---
 

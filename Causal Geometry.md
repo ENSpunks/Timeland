@@ -1,4 +1,3 @@
-
 ### Causal Relativity: Causal Geometry
 
 ---

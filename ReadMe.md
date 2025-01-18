@@ -53,13 +53,17 @@ Causal Relativity introduces **Casual Geometry** a framework without a time dime
 
 #### **Causal Spheres**
 
-- **Mass Cores:** Each mass is visualized as a sphere in 3D space  representing the 3D cross-section of a 4D hyphersphere moving through 3D space at a constant velocity projecting its volume into the 3D cross section as quantized mass.
+Where Spacetime Geometry had lightcones, Causal Geometry presents 3 spheres Mass, Light, and Gravity which interact and create intrinsic causal spatial coordinate relative to itself, other sources, and 3D space.
 
-- **Causal Light Shell:** Mass emits light, forming an expanding shell at the speed of causality, carrying the energy information of the mass as massless quanta.
+The simplisity of Casual Geometry results in an intuitive visual diagram, like Feynman diagram's for Casuak Relativity and the 3 Spheres in temporal terms, generally as:
 
-- **Causal Gravity Shell:** Gravity is the curvature of 3D space by mass and propagting outward as a shell at the speed of causality.
+- **Mass Cores:** FutureSpace or quantized mass.
 
-- **Observer Independence:** The interaction of these spheres and shells with others is frame-independent, described through spatial geometry, not time.
+- **Causal Light Shell:** PastSpace or photons.
+
+- **Causal Gravity Shell:** Present or curvature of 3D space relative to mass and PastSpace.
+
+- **Observer Independence:** The interaction of these spheres and shells with others is frame-independent, described purely through geometry independent of time.
 
 ---
 

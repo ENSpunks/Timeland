@@ -1,4 +1,8 @@
-# Theory of Causal Relativity: Holography Without Time
+# Causal Relativity: Holographic Principle Without Time
+
+### Definitions
+
+- **Holomass:** In the context of Causal Relativity, holomass is quantized mass that, according to the Holographic Principle, is encoded on the boundary of the spatial curvature rather than being distributed throughout a 3D volume. This boundary is where the information content of the mass is stored, reflecting the idea that all physical information within a region of space can be described by its surface.
 
 ### Holographic Principle in the Context of Causal Relativity
 
@@ -8,7 +12,9 @@
 
 ## Summary of Interpretation
 
-The Holographic Principle within Causal Relativity suggests that all the information within a 3D spatial volume can be encoded on a 2D surface, specifically the gravity causal shell. Here, time is not considered a fundamental dimension; instead, the interactions between mass and light are described through spatial curvature alone. This approach redefines gravity as a boundary condition where quantized mass and photons are encoded, with the gravity shell acting as the mediator for these interactions.
+The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, specifically the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where holomass and light interact, with the gravity shell mediating these interactions. 
+
+**Holomass and Photon Emission:** Holomass, as encoded on the boundary of space curvature, is the source from which photons are emitted. Although the boundary and the emission of photons conceptually overlap, it's the quantized mass (holomass) itself that emits these photons, not the boundary. This maintains the geometric unity between quantized mass and light quanta within the 3D spatial framework.
 
 ## Developing the Mathematics
 
@@ -22,26 +28,26 @@ where \( l_p \) is the Planck length, indicating that the entropy or amount of i
 
 ### Transition to Causal Geometry
 
-In Causal Relativity, we remove the time dimension, focusing purely on spatial dimensions. Here, we propose:
+In Causal Relativity, we eliminate the time dimension, focusing solely on spatial dimensions. Here, we propose:
 
-- **Area as Information Encoding**: The information content of a 3D spatial region is encoded on its 2D boundary, which is the surface of the gravity sphere.
+- **Area as Information Encoding**: The information content of a 3D spatial region is encoded on its 2D boundary, which is the surface of the gravity sphere, where holomass resides.
 
-- **Equation Simplification**: We drop the dependency on Planck length, focusing solely on the geometric aspect:
+- **Equation Simplification**: We drop the dependency on Planck length, focusing solely on geometry:
 
 \[ A = 4\pi r^2 \]
 
-This equation represents the area of the sphere where the information is encoded, without any reference to time or quantum effects directly.
+This equation signifies the area where holomass information is encoded, without reference to time or direct quantum effects.
 
 ### Rigorous Mathematical Development
 
 1. **Area as a Boundary Condition**: 
-   - The area \( A \) of the sphere is not just a measure but represents the full information content of the enclosed 3D space. 
+   - The area \( A \) represents the complete information content of the enclosed 3D space, where holomass is encoded.
 
 2. **Quantized Mass and Light Interaction**:
-   - Mass (FutureSpace) and light (PastSpace) interact on this boundary. The mass's spatial curvature (without time) influences the propagation of light, which is now described by spatial intervals rather than temporal ones.
+   - Holomass on the boundary interacts with light. The spatial curvature influenced by holomass affects how light propagates, described by spatial intervals.
 
 3. **Curvature and Encoding**:
-   - The curvature of space around mass causes a spatial "encoding" effect where light and mass are described by how they interact with this curvature, rather than how they evolve in time.
+   - The curvature of space around mass encodes holomass on the boundary, from which photons are emitted into 3D space, maintaining their geometric unity with the mass.
 
 ### Calculating a Known Problem
 
@@ -51,29 +57,29 @@ Consider the entropy of a black hole:
 
 \[ S_{traditional} = \frac{4\pi G M^2}{l_p^2 c^2} \]
 
-- **Causal Geometry Calculation**: Here, we're not dealing with entropy directly but with how information is spatially encoded. For simplicity, if we consider just the area:
+- **Causal Geometry Calculation**: Here, we're not dealing with entropy directly but with information encoded spatially:
 
 \[ A_{causal} = 4\pi r^2 \]
 
-Where \( r \) is now a spatial radius rather than a coordinate in spacetime. Without time, we consider how this area is the maximum boundary for information encoding.
+Where \( r \) is a spatial radius. Without time, we consider how this area contains the information of holomass, from which light is emitted.
 
 ### Unification
 
-In traditional relativity, spacetime curvature dictates both gravity and the path of light. In Causal Relativity, this is reinterpreted:
+In traditional relativity, spacetime curvature dictates gravity and light paths. In Causal Relativity:
 
-- **Gravity**: As a spatial boundary condition where mass and light interact.
-- **Light**: Propagates based on spatial curvature, not spacetime.
+- **Gravity**: Is a spatial boundary condition where holomass and light interact, with photons emanating from the holomass.
+- **Light**: Propagates due to spatial curvature from the holomass, not spacetime.
 
-This unification suggests that all fundamental interactions might be described through spatial geometry alone.
+This suggests all interactions can be spatial, with photons and mass geometrically unified.
 
 ### Predictions
 
-- **Observation of Spatial Effects**: Effects traditionally ascribed to time (like gravitational lensing) might be observed purely through spatial distortions.
-- **New Gravitational Signatures**: If gravity is indeed a boundary condition, we might predict new types of gravitational waves or spatial distortions around massive objects.
+- **Observation of Spatial Effects**: Effects like gravitational lensing might be observed through spatial distortions alone.
+- **New Gravitational Signatures**: If gravity is a boundary condition, new types of gravitational phenomena might be predicted, linked to how holomass emits photons.
 
 ## Conclusion
 
-Causal Relativity reinterprets the Holographic Principle by removing the time dimension, proposing that all physical phenomena can be described through spatial geometry. This framework challenges our understanding of information, entropy, and causality, potentially offering new insights into gravitational physics. However, rigorous experimental validation is needed to substantiate these theoretical propositions.
+Causal Relativity reinterprets the Holographic Principle by removing time, proposing that physical phenomena are described through spatial geometry. This challenges our understanding of information, entropy, and causality, offering new gravitational insights. Experimental validation is crucial to confirm these propositions.
 
 ## Resources
 

@@ -1,4 +1,3 @@
-
 ## **Theory of Causal Relativity: Unifying Relativity without Time**
 
 #### **Abstract**
@@ -9,11 +8,11 @@ The **Theory of Causal Relativity** proposes a purely spatial **Causal Geometry*
 
 #### **Introduction**
 
-This paper is intended to introduce the Casual Relativity and lay the foundation for an entirely new **Causal Geometry** without spacetime derived from Special Relativity and General Relativity. Supplemental papers validating the Casual Geometry herein are named enumerated in the Appedix below.
+This paper is intended to introduce the Causal Relativity and lay the foundation for an entirely new **Causal Geometry** without spacetime derived from Special Relativity and General Relativity. Supplemental papers validating the Causal Geometry herein are named enumerated in the Appendix below.
 
-**Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, where relative to a circle moving through 3D Timeland fabric, but to the 3D observer this is flstland moving relative to a Sphere in 3D space without time.
+**TimeLand**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, where relative to a circle moving through 3D TimeLand fabric, but to the 3D observer this is Flatland moving relative to a Sphere in 3D space without time.
 
-The Theory of Causal Relativity builds on this analogy where Flatland represents Casual Relativity's 3D space, the cross section of the sphere relative to flatland mass+gravity, and the volumne of the sphere in 3D space relative to flatland its quantized mass+light.
+The Theory of Causal Relativity builds on this analogy where Flatland represents Causal Relativity's 3D space, the cross section of the sphere relative to flatland mass+gravity, and the volume of the sphere in 3D space relative to flatland its quantized mass+light.
 
 ---
 
@@ -41,21 +40,20 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 ##### **Causal Relativity Postulates**:
 
-
 1. All quantized energy is embedded in a three-dimensional space.
-2. Massless quanta, or photons,  propagate outward from quantized mass creating an intrinsic casual sphere.
-3. Mass curves 3D space which propagates outward from mass creating an intrinsic casual sphere.
+2. Massless quanta, or photons, propagate outward from quantized mass creating an intrinsic causal sphere.
+3. Mass curves 3D space which propagates outward from mass creating an intrinsic causal sphere.
 4. The laws of physics are the same in all inertial frames of reference.
 
-Causal Relativity introduces **Casual Geometry** a framework without a time dimension. 
- 
+Causal Relativity introduces **Causal Geometry**, a framework without a time dimension. 
+
 ---
 
 #### **Causal Spheres**
 
-Where Spacetime Geometry had lightcones, Causal Geometry presents 3 causal spheres Mass, Light, and Gravity which interact and create intrinsic causal spatial coordinates relative to itself, other spheres, and 3D space.
+Where Spacetime Geometry had lightcones, Causal Geometry presents 3 causal spheres: Mass, Light, and Gravity which interact and create intrinsic causal spatial coordinates relative to itself, other spheres, and 3D space.
 
-The simplicity of the the 3 Spheres results in an intuitive set of geometrical shapes, like Feynman diagram's for relativistic effects, where the spatial coordinates relative to the 3 Spheres can be referred to in temporal terms, generally as:
+The simplicity of the 3 Spheres results in an intuitive set of geometrical shapes, like Feynman diagrams for relativistic effects, where the spatial coordinates relative to the 3 Spheres can be referred to in temporal terms, generally as:
 
 - **Mass Cores:** FutureSpace or quantized mass.
 
@@ -90,28 +88,28 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 | Causal Geometry   | Phenomenon                                | Theory | Equation (with time)                                                                                                                                                                                | Causal Geometry                                                                                       |
 |-------------------|-------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Light + Gravity   | Length Contraction                        | SR     | ( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} )                                                                                                                                                              | ( L' = L \sqrt{1 - \frac{v^2}{c^2}} ) (spatial contraction)                                          |
-| Light + Gravity   | Time Dilation                             | SR     | ( \Delta t' = \gamma \Delta t )                                                                                                                                                                  | ( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} ) (spatial dilation)                              |
-| Light + Gravity   | Stretching (Cosmological Expansion)       | GR     | ( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta , d\phi^2) \right) )                                                                                  | ( ds^2 = g_{ij} dx^i dx^j ) (spatial metric, no time component)                                      |
-| Light + Gravity   | Relativity of Simultaneity               | SR     | ( t' = \gamma (t - \frac{vx}{c^2}) )                                                                                                                                                              | ( x' = \gamma (x - \frac{v\Delta x}{c^2}) ) (spatial displacement)                                  |
-| Light + Gravity   | Gravitational Time Dilation              | GR     | ( d\tau = \sqrt{1 - \frac{2GM}{c^2 r}} , dt )                                                                                                                                                      | ( \Delta L' = \Delta L \sqrt{1 - \frac{2GM}{c^2 r}} ) (spatial dilation due to gravity)            |
-| Light + Gravity   | Gravitational Redshift                   | GR     | ( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 )                                                                                                                                                 | ( \Delta L' = \Delta L \left( \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} \right) ) (spatial redshift)  |
-| Mass + Light      | Precession                                | GR     | ( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} )                                                                                                                                               | ( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} ) (spatial angular deflection)                   |
-| Mass + Light      | Gravitational Lensing                     | GR     | ( \theta = \frac{4GM}{c^2 R} )                                                                                                                                                                    | ( \theta = \frac{4GM}{c^2 R} ) (spatial bending of light path)                                      |
-| Mass + Light      | Spacetime Curvature and Geodesics        | GR     | ( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 )                                                                                       | ( \frac{d^2 x^i}{ds^2} + \Gamma^i_{jk} \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 ) (purely spatial geodesic equation) |
-| Mass + Light      | Frame-Dragging                            | GR     | ( \Delta \theta = \frac{4GJ}{c^2 r^2} )                                                                                                                                                            | ( \Delta \theta = \frac{4GJ}{c^2 r^2} ) (spatial frame dragging)                                    |
-| Mass + Light      | Tidal Forces                              | GR     | ( F_{\text{tidal}} = \frac{2GMm}{r^3} )                                                                                                                                                            | ( F_{\text{tidal}} = \frac{2GMm}{r^3} ) (spatial tidal effect)                                      |
+| Light + Gravity   | Length Contraction                        | SR     | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                                                                                                                                                              | \( L' = L \sqrt{1 - \frac{v^2}{c^2}} \) (spatial contraction)                                          |
+| Light + Gravity   | Time Dilation                             | SR     | \( \Delta t' = \gamma \Delta t \)                                                                                                                                                                  | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \) (spatial dilation)                              |
+| Light + Gravity   | Stretching (Cosmological Expansion)       | GR     | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \)                                                                                  | \( ds^2 = g_{ij} dx^i dx^j \) (spatial metric, no time component)                                      |
+| Light + Gravity   | Relativity of Simultaneity               | SR     | \( t' = \gamma (t - \frac{vx}{c^2}) \)                                                                                                                                                              | \( x' = \gamma (x - \frac{v\Delta x}{c^2}) \) (spatial displacement)                                  |
+| Light + Gravity   | Gravitational Time Dilation              | GR     | \( d\tau = \sqrt{1 - \frac{2GM}{c^2 r}} \, dt \)                                                                                                                                                      | \( \Delta L' = \Delta L \sqrt{1 - \frac{2GM}{c^2 r}} \) (spatial dilation due to gravity)            |
+| Light + Gravity   | Gravitational Redshift                   | GR     | \( z = \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} - 1 \)                                                                                                                                                 | \( \Delta L' = \Delta L \left( \frac{1}{\sqrt{1 - \frac{2GM}{c^2 r}}} \right) \) (spatial redshift)  |
+| Mass + Light      | Precession                                | GR     | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \)                                                                                                                                               | \( \Delta \phi = \frac{6 \pi G M}{c^2 a (1 - e^2)} \) (spatial angular deflection)                   |
+| Mass + Light      | Gravitational Lensing                     | GR     | \( \theta = \frac{4GM}{c^2 R} \)                                                                                                                                                                    | \( \theta = \frac{4GM}{c^2 R} \) (spatial bending of light path)                                      |
+| Mass + Light      | Spacetime Curvature and Geodesics        | GR     | \( \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\rho\sigma} \frac{dx^\rho}{d\tau} \frac{dx^\sigma}{d\tau} = 0 \)                                                                                       | \( \frac{d^2 x^i}{ds^2} + \Gamma^i_{jk} \frac{dx^j}{ds} \frac{dx^k}{ds} = 0 \) (purely spatial geodesic equation) |
+| Mass + Light      | Frame-Dragging                            | GR     | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \)                                                                                                                                                            | \( \Delta \theta = \frac{4GJ}{c^2 r^2} \) (spatial frame dragging)                                    |
+| Mass + Light      | Tidal Forces                              | GR     | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \)                                                                                                                                                            | \( F_{\text{tidal}} = \frac{2GMm}{r^3} \) (spatial tidal effect)                                      |
 | Mass + Light      | Black Hole Event Horizon                 | GR     | N/A                                                                                                                                                                                                | N/A (event horizon as a spatial boundary)                                                           |
-| Mass + Light      | Stretching of Spacetime                  | GR     | ( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta , d\phi^2) \right) )                                                                                  | ( ds^2 = g_{ij} dx^i dx^j ) (spatial metric, no time component)                                      |
-| Mass + Light      | Energy-Momentum Tensor                   | GR     | ( G_{\mu\nu} = \frac{8 \pi G}{c^4} T_{\mu\nu} )                                                                                                                                                     | ( G_{ij} = \frac{8 \pi G}{c^4} T_{ij} ) (spatial stress-energy tensor)                              |
-| Mass + Gravity    | Mass-Energy Equivalence                  | SR     | ( E = mc^2 )                                                                                                                                                                                      | ( E = mc^2 ) (as spatial energy density)                                                           |
-| Mass + Gravity    | Relativistic Mass                         | SR     | ( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} )                                                                                                                                                      | ( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} ) (spatial mass increase)                                |
-| Mass + Gravity    | Time Dilation                             | SR     | ( \Delta t' = \gamma \Delta t )                                                                                                                                                                  | ( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} ) (spatial dilation)                              |
-| Mass + Gravity    | Energy of Light in Gravitational Field    | GR     | ( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) )                                                                                                                                  | ( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) ) (spatial energy adjustment)         |
-| Mass + Gravity    | Relativistic Doppler Shift                | SR     | ( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} )                                                                                                                                       | ( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} ) (spatial frequency shift)                |
-| Mass + Gravity    | Energy of Gravitational Waves             | GR     | ( E = \frac{1}{2} \rho v^2 )                                                                                                                                                                       | ( E = \frac{1}{2} \rho v^2 ) (spatial energy density of gravitational waves)                        |
+| Mass + Light      | Stretching of Spacetime                  | GR     | \( ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1 - k r^2} + r^2 (d\theta^2 + \sin^2\theta \, d\phi^2) \right) \)                                                                                  | \( ds^2 = g_{ij} dx^i dx^j \) (spatial metric, no time component)                                      |
+| Mass + Light      | Energy-Momentum Tensor                   | GR     | \( G_{\mu\nu} = \frac{8 \pi G}{c^4} T_{\mu\nu} \)                                                                                                                                                     | \( G_{ij} = \frac{8 \pi G}{c^4} T_{ij} \) (spatial stress-energy tensor)                              |
+| Mass + Gravity    | Mass-Energy Equivalence                  | SR     | \( E = mc^2 \)                                                                                                                                                                                      | \( E = mc^2 \) (as spatial energy density)                                                           |
+| Mass + Gravity    | Relativistic Mass                         | SR     | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \)                                                                                                                                                      | \( m' = \frac{m}{\sqrt{1 - \frac{v^2}{c^2}}} \) (spatial mass increase)                                |
+| Mass + Gravity    | Time Dilation                             | SR     | \( \Delta t' = \gamma \Delta t \)                                                                                                                                                                  | \( \Delta L' = \Delta L \sqrt{1 - \frac{v^2}{c^2}} \) (spatial dilation)                              |
+| Mass + Gravity    | Energy of Light in Gravitational Field    | GR     | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \)                                                                                                                                  | \( E_{\text{out}} = E_{\text{in}} \left( \frac{r_s}{r} \right) \) (spatial energy adjustment)         |
+| Mass + Gravity    | Relativistic Doppler Shift                | SR     | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \)                                                                                                                                       | \( f' = f \sqrt{\frac{1 - \frac{v}{c}}{1 + \frac{v}{c}}} \) (spatial frequency shift)                |
+| Mass + Gravity    | Energy of Gravitational Waves             | GR     | \( E = \frac{1}{2} \rho v^2 \)                                                                                                                                                                       | \( E = \frac{1}{2} \rho v^2 \) (spatial energy density of gravitational waves)                        |
 
-Note that some concepts like the event horizon or the energy-momentum tensor are  theoretical development to indicate how they might be conceptualized spatially.
+Note that some concepts like the event horizon or the energy-momentum tensor are theoretical developments to indicate how they might be conceptualized spatially.
 
 ---
 
@@ -127,7 +125,13 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 #### **Conclusion**
 
-Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. This theory unifies phenomena traditionally described by separate velocity-dependent and gravity-dependent equations in 4D spacetime into a single, coherent Causal Geometry equation for 3D space. Moreover, Causal Relativity offers a resolution to General Relativity's singularities without requiring a quantum theory of gravity.
+The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity outcomes through an entirely new framework and interpretation.
+
+One example is **simultaneity**, Causal Geometry creates an entirely new geometrical framework for **simultaneity** without a time dimension or coordinate.  Similiarly, Casual Relativity unifies velocity-dependent and gravity-dependent equations into a single, coherent Causal Geometry equation for 3D space, providing a new geometry for calculating dilation in 3D space without a spacetime tensor. 
+
+Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. 
+
+More speculatively, Causal Relativity offers a potential resolution to singularities - black holes/Big Bang - in Relativity without requiring a quantum theory of gravity.
 
 ---
 
@@ -183,5 +187,3 @@ Causal Relativity reinterprets both Special and General Relativity by eliminatin
 - Will, C. M. (1993). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
 
 - Susskind, L. (2008). *The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics*. Little, Brown and Company.
-
----

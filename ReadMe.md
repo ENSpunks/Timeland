@@ -1,9 +1,11 @@
 ## **Theory of Causal Relativity: Unifying Relativity without Time**
 
-Punks
-Cypherpunks
-enspunks.eth
-https://enspunks.eth.link
+---
+
+Punks  
+Cypherpunks  
+enspunks.eth  
+https://enspunks.eth.link  
 
 ---
 

@@ -133,7 +133,7 @@ Causal Relativity reinterprets both Special and General Relativity by eliminatin
 
 ## **Appendix**
 
-| **Causal Geometry** | **Phenomenon**                          | **Theory**   | **Equation**                                                                                             | **Confirmed** |
+| **Causal Geometry** | **Phenomenon**                          | **Theory**   | **Equation**                                                                                             | **Published** |
 |---------------------|------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|---------------|
 | **Light + Gravity**  | **Length Contraction**                   | SR           | \( L = L_0 \sqrt{1 - \frac{v^2}{c^2}} \)                                                                |               |
 | **Light + Gravity**  | **Time Dilation**                        | SR           | \( \Delta t' = \gamma \Delta t \)                                                                       |               |

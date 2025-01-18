@@ -105,5 +105,3 @@ Future research will continue to refine these ideas, particularly by investigati
 4. Planck, M. (1901). *Treatise on Thermodynamics*. Dover Publications.
 
 --- 
-
-Feel free to adapt or modify the content as needed for your use!

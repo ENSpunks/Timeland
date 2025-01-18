@@ -4,80 +4,90 @@
 
 | **Causal Geometry** | **Phenomenon** | **Original Equation** | **Causal Relativity Equation** |
 |---------------------|----------------|-----------------------|-------------------------------|
-| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( A = 4\pi r^2 \) |
+| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( S = \frac{\pi r^2}{l_p^2} \) |
 
 ## Summary of Interpretation
 
-The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, specifically the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where holomass and light interact, with the gravity shell mediating these interactions. 
+The Holographic Principle within Causal Relativity posits that the information within a 3D spatial volume is encoded on a 2D surface, the gravity causal shell. Here, time is not a fundamental dimension; instead, interactions between mass and light are delineated through spatial curvature. Gravity is reimagined as a boundary condition where holomass and light interact, with the gravity shell mediating these interactions.
 
-**Holomass:** In the context of Causal Relativity, holomass is quantized mass that, according to the Holographic Principle, is encoded on the boundary of the spatial curvature rather than being distributed throughout a 3D volume. This boundary is where the information content of the mass is stored, reflecting the idea that all physical information within a region of space can be described by its surface.
+**Holomass:** In this context, holomass is quantized mass encoded on the boundary of spatial curvature, reflecting the idea that all physical information within a region of space can be described by its surface in discrete units of Planck area.
 
-**Holomass and Photon Emission:** Holomass, as encoded on the boundary of space curvature, is the source from which photons are emitted. Although the boundary and the emission of photons conceptually overlap, it's the quantized mass (holomass) itself that emits these photons, not the boundary. This maintains the geometric unity between quantized mass and light quanta within the 3D spatial framework.
+**Holomass and Photon Emission:** Holomass, encoded on this boundary, acts as a source for photon emission. This interaction is conceptualized as quantum field theory at the boundary, where the emission of photons is a result of transitions in these quantized masses.
 
 ## Developing the Mathematics
 
 ### Original Holographic Principle
 
-The Bekenstein-Hawking entropy formula for black holes relates entropy \( S \) to the area \( A \) of the event horizon:
+The Bekenstein-Hawking entropy formula for black holes:
 
 \[ S = \frac{A}{4l_p^2} \]
 
-where \( l_p \) is the Planck length, indicating that the entropy or amount of information in a region of space is proportional to the area of its boundary rather than its volume.
+where \( l_p \) is the Planck length, indicating that entropy or information is proportional to the boundary area.
 
 ### Transition to Causal Geometry
 
-In Causal Relativity, we eliminate the time dimension, focusing solely on spatial dimensions. Here, we propose:
+In Causal Relativity, we eliminate time, focusing on spatial dimensions:
 
-- **Area as Information Encoding**: The information content of a 3D spatial region is encoded on its 2D boundary, which is the surface of the gravity sphere, where holomass resides.
+- **Area as Information Encoding**: The information content of a 3D region is encoded on its 2D boundary, where holomass resides.
 
-- **Equation Simplification**: We drop the dependency on Planck length, focusing solely on geometry:
+- **Equation Adjustment**: We modify to include the Planck length while maintaining a focus on geometry:
 
-\[ A = 4\pi r^2 \]
+\[ S = \frac{\pi r^2}{l_p^2} \]
 
-This equation signifies the area where holomass information is encoded, without reference to time or direct quantum effects.
+This equation now accounts for the quantum nature of information storage on the boundary.
 
 ### Rigorous Mathematical Development
 
 1. **Area as a Boundary Condition**: 
-   - The area \( A \) represents the complete information content of the enclosed 3D space, where holomass is encoded.
+   - The area \( A \) now represents the sum of Planck areas where holomass is encoded:
+
+   \[
+   A = N \cdot l_p^2
+   \]
+
+   Here, \( N \) is the number of Planck areas, directly related to the information content:
+
+   \[
+   S = \frac{N}{4}
+   \]
 
 2. **Quantized Mass and Light Interaction**:
-   - Holomass on the boundary interacts with light. The spatial curvature influenced by holomass affects how light propagates, described by spatial intervals.
+   - Holomass on the boundary interacts with light through quantum field theory principles, with the spatial curvature affecting light propagation.
 
 3. **Curvature and Encoding**:
-   - The curvature of space around mass encodes holomass on the boundary, from which photons are emitted into 3D space, maintaining their geometric unity with the mass.
+   - The curvature of space around mass encodes holomass on the boundary, from which photons are emitted, maintaining geometric unity with mass.
 
 ### Calculating a Known Problem
 
 Consider the entropy of a black hole:
 
-- **Traditional Calculation**: For a Schwarzschild black hole of mass \( M \), the horizon area is \( A = 16\pi G^2 M^2/c^4 \). Using the Bekenstein-Hawking formula, we get:
+- **Traditional Calculation**: For a Schwarzschild black hole of mass \( M \), the horizon area is \( A = 16\pi G^2 M^2/c^4 \). Using the Bekenstein-Hawking formula:
 
 \[ S_{traditional} = \frac{4\pi G M^2}{l_p^2 c^2} \]
 
-- **Causal Geometry Calculation**: Here, we're not dealing with entropy directly but with information encoded spatially:
+- **Causal Geometry Calculation**: Here, we adapt:
 
-\[ A_{causal} = 4\pi r^2 \]
+\[ A_{causal} = N \cdot l_p^2 \]
+\[ S_{causal} = \frac{N}{4} \]
 
-Where \( r \) is a spatial radius. Without time, we consider how this area contains the information of holomass, from which light is emitted.
+Where \( N \) corresponds to the number of Planck areas on the causal boundary, directly proportional to the radius \( r \) in Planck units.
 
 ### Unification
 
-In traditional relativity, spacetime curvature dictates gravity and light paths. In Causal Relativity:
+In this model, gravity and light interactions are spatial, with photons and mass geometrically unified at the quantum boundary:
 
-- **Gravity**: Is a spatial boundary condition where holomass and light interact, with photons emanating from the holomass.
-- **Light**: Propagates due to spatial curvature from the holomass, not spacetime.
-
-This suggests all interactions can be spatial, with photons and mass geometrically unified.
+- **Gravity**: A spatial boundary condition where holomass and light interact.
+- **Light**: Propagates due to spatial curvature from the holomass.
 
 ### Predictions
 
-- **Observation of Spatial Effects**: Effects like gravitational lensing might be observed through spatial distortions alone.
-- **New Gravitational Signatures**: If gravity is a boundary condition, new types of gravitational phenomena might be predicted, linked to how holomass emits photons.
+- **Observation of Quantum Spatial Effects**: Gravitational lensing or other effects might show quantum signatures at the boundary.
+
+- **New Gravitational Signatures**: Predictions might include phenomena linked to how holomass emits photons from discrete Planck areas on the boundary.
 
 ## Conclusion
 
-Causal Relativity reinterprets the Holographic Principle by removing time, proposing that physical phenomena are described through spatial geometry. This challenges our understanding of information, entropy, and causality, offering new gravitational insights. Experimental validation is crucial to confirm these propositions.
+Causal Relativity reinterprets the Holographic Principle by removing time, proposing that physical phenomena are described through spatial geometry with quantum encoding at the boundary. This challenges our understanding of information, entropy, and causality, offering new gravitational insights. Experimental validation is crucial to confirm these propositions.
 
 ## Resources
 

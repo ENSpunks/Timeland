@@ -7,9 +7,11 @@
 
 **Overview of Causal Geometry:**
 
-In this theory, we propose a paradigm shift from Einstein’s 4D spacetime continuum to **causal relativity**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic 4D causal properties**. Causal geometry reinterprets key relativistic phenomena like **time dilation**, **simultaneity**, and **black holes** as purely **spatial effects**, unifying velocity- and gravity-induced distortions geometrically. Time is treated as a **spatial projection** rather than an independent dimension, and both mass, light, and gravity are modeled as **spatial phenomena** that interact within a unified **3D space** framework.
+In this theory, we propose a paradigm shift from Einstein’s 4D spacetime continuum to **causal relativity**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic causal coordinates**. 
 
-This transition will be shown mathematically by transforming traditional relativistic equations (involving both space and time) into their **causal geometry equivalents**, where time is encoded as a **spatial transformation**.
+Causal geometry reinterprets key relativistic phenomena like **simultaneity**, **time dilation**, and **black holes** as purely **spatial effects**, unifying velocity- and gravity-induced distortions geometrically. Mass, light, and gravity are modeled as **spatial phenomena** that interact within a unified **3D space** framework rather than 4D spacetime.
+
+This transition will be shown mathematically by transforming traditional relativistic equations, involving both space and time, into their **causal geometry equivalents**.
 
 ---
 
@@ -26,15 +28,9 @@ The idea is that **both the 3D and 2D projections are valid**; they are just dif
 
 ---
 
-#### **Postulates**
-
-
----
-
 #### **Mass, Light, Gravity**
 
 In causal geometry, **mass**, **light**, and **gravity** are viewed as purely **spatial phenomena**. Below, we convert the relevant relativistic equations, showing how each is modified under the new framework.
-
 
 ##### **Mass**
 
@@ -147,33 +143,6 @@ In **causal relativity**, mass, light, and gravity are all fundamentally **spati
 ---
 
 #### **Light+Gravity, Mass+Light, Mass+Gravity**
-
-- Revisit the 4D hypersphere model as a unifying visual representation for mass, light, and gravity.  
-- Describe how motion of the hypersphere in 3D space alters the projections:  
-   - In 3D: The hypersphere appears as a sphere whose size changes with velocity or gravity.  
-   - In 2D: The concentric circles expand and contract, representing geometric transformations from causal interactions.  
-
-Light + Gravity (SR & GR)
-Length Contraction (SR)
-Time Dilation (SR)
-Stretching (Cosmological Expansion, GR)
-Relativity of Simultaneity (SR)
-Gravitational Time Dilation (GR)
-Gravitational Redshift (GR)
-
-Mass + Light (SR & GR)
-Mass-Energy Equivalence (SR)
-Relativistic Mass (SR)
-Time Dilation (SR)
-Energy of Light in Gravitational Field (GR)
-Relativistic Doppler Shift (SR)
-
-Mass + Gravity (GR)
-Precession (GR)
-Gravitational Lensing (GR)
-Spacetime Curvature and Geodesics (GR)
-Frame-Dragging (GR)
-Gravitational Time Dilation (GR)
 
 ---
 

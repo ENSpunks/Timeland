@@ -5,17 +5,15 @@
 
 #### **Abstract**
 
-**Overview of Causal Geometry:**
-
-In this theory, we propose a paradigm shift from Einstein’s 4D spacetime continuum to **causal relativity**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic causal coordinates**.
-
-Causal geometry reinterprets key relativistic phenomena like **simultaneity**, **time dilation**, and **black holes** as purely **spatial effects**, unifying velocity- and gravity-induced distortions geometrically. Mass, light, and gravity are modeled as **spatial phenomena** that interact within a unified **3D space** framework rather than 4D spacetime.
-
-This transition will be shown mathematically by transforming traditional relativistic equations, involving both space and time, into their **causal geometry equivalents**.
+Causal Relativity proposes a paradigm shift from Einstein’s 4D spacetime continuum to a **causal geometry**, where **space remains fundamentally 3D**, and **matter** possesses **intrinsic causal coordinates**.
 
 ---
 
 #### **Introduction**
+
+Causal geometry reinterprets key relativistic phenomena like **simultaneity**, **time dilation**, and **black holes** as purely **spatial effects**, unifying velocity- and gravity-induced distortions geometrically. Mass, light, and gravity are modeled as **spatial phenomena** that interact within a unified **3D space** framework rather than 4D spacetime.
+
+This transition will be shown mathematically by transforming traditional relativistic equations, involving both space and time, into their **causal geometry equivalents**.
 
 ---
 

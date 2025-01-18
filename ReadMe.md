@@ -140,7 +140,7 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 #### **Conclusion**
 
-The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity outcomes through an entirely new framework and interpretation.
+The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity predictions and outcomes through **Causal Relativity**.
 
 **Causal Relativity** reinterprets both Special and General Relativity with **Causal Geometry** by eliminating spacetime and the time dimension altogether resulting in simplified equations with purely spatial and causal interpretations.
 

@@ -13,7 +13,7 @@ This paper is intended to introduce the Casual Relativity and lay the foundation
 
 **Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, where relative to a circle moving through 3D Timeland fabric, but to the 3D observer this is flstland moving relative to a Sphere in 3D space without time.
 
-The Theory of Causal Relativity builds on this analogy where Flatland represents Casual Relativity's 3D space, the cross section of the sphere relative to flatland mass+gravity, and the volumne of the sphere in 3D space relative to flatland its quantized mass and light.
+The Theory of Causal Relativity builds on this analogy where Flatland represents Casual Relativity's 3D space, the cross section of the sphere relative to flatland mass+gravity, and the volumne of the sphere in 3D space relative to flatland its quantized mass+light.
 
 ---
 

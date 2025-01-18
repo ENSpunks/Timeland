@@ -3,17 +3,17 @@
 
 #### **Abstract**
 
-The Theory of Causal Relativity proposes a spatial causal geometry independent of spacetime or any time dimension. 
+The **Theory of Causal Relativity** proposes a purely spatial **Causal Geometry** independent of spacetime or any time dimension. 
 
 ---
 
 #### **Introduction**
 
+This paper is intended to introduce the Casual Relativity and lay the foundation for an entirely new **Causal Geometry** without spacetime derived from Special Relativity and General Relativity. Supplemental papers validating the Casual Geometry herein are named enumerated in the Appedix below.
+
 **Timeland**, inspired by Edwin Abbott’s *Flatland*, provides an illustrative analogy: just as Flatland uses 2D creatures to explore the implications of higher dimensions, where relative to a circle moving through 3D Timeland fabric, but to the 3D observer this is flstland moving relative to a Sphere in 3D space without time.
 
-The Theory of Causal Relativity builds on this analogy disregarding time time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
-
-The Theory of Causal Relativity builds on this analogy, treating time as a spatial phenomenon and unifying relativistic effects through a new geometry, **causal geometry**.
+The Theory of Causal Relativity builds on this analogy where Flatland represents Casual Relativity's 3D space, the cross section of the sphere relative to flatland mass+gravity, and the volumne of the sphere in 3D space relative to flatland its quantized mass and light.
 
 ---
 
@@ -128,19 +128,6 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 #### **Conclusion**
 
 Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. This theory unifies phenomena traditionally described by separate velocity-dependent and gravity-dependent equations in 4D spacetime into a single, coherent Causal Geometry equation for 3D space. Moreover, Causal Relativity offers a resolution to General Relativity's singularities without requiring a quantum theory of gravity.
-
----
-
-#### **Other Casual Theories**
-
-| **Theory**                    | **Concept**                                                                 | **Difference**                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| **Causal Set Theory**         | Proposes that spacetime is fundamentally discrete, and the causal relationships between events define the geometry. | Still operates within a 4D spacetime framework. Causal Relativity seeks to eliminate time as an independent dimension. |
-| **Causal Dynamical Triangulations (CDT)** | A quantum gravity approach where spacetime is constructed from discrete building blocks, with a well-defined causal structure. | Uses time as a dimension to maintain causality; Causal Relativity aims for a purely spatial interpretation. |
-| **Causal Fermion Systems**    | Aims at unifying all fundamental forces by describing spacetime as emerging from causal structures of fermion systems. | Maintains a spacetime framework; does not eliminate time but reinterprets its emergence. |
-| **Causal Graph Theory in Physics** | Used to model causal relationships in quantum field theory or statistical mechanics, typically via directed graphs. | Works within existing spacetime dimensions, focusing on causal order without altering time's dimensionality. |
-| **Shape Dynamics**             | Considers the evolution of spatial shapes instead of spacetime.             | Involves time but reinterprets it through spatial changes; Causal Relativity aims for a relativistic interpretation without time. |
-| **Emergent Space-Time Theories** | Theories where spacetime emerges from more fundamental entities or structures (e.g., Erik Verlinde's Emergent Gravity). | Time remains, often as an emergent property, contrasting with Causal Relativity's aim to remove time as a fundamental dimension. |`​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 

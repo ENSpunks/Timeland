@@ -50,7 +50,7 @@ These postulates define the foundational framework of causal relativity, where t
 
 #### **Core Concepts**
 
-- **Central Sphere (Mass):** Each mass is visualized as a sphere in 3D space, representing the 3D cross-section of a 4D manifold where the mass's 4D volume is projected.
+- **Mass Cores:** Each mass is visualized as a sphere in 3D space, representing the 3D cross-section of a 4D manifold where the mass's 4D volume is projected.
 
 - **Causal Light Shell:** Mass emits light, forming an expanding shell at the speed of light, carrying the energy information of the mass as photons.
 

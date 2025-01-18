@@ -43,8 +43,8 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 
 1. All quantized energy is embedded in a three-dimensional space.
-2. Massless quanta, or photons,  propagate outward from quantized mass creating an instrinsic casual sphere.
-3. Mass curves 3D space which propagates outward from mass creating an instrinsic casual sphere.
+2. Massless quanta, or photons,  propagate outward from quantized mass creating an intrinsic casual sphere.
+3. Mass curves 3D space which propagates outward from mass creating an intrinsic casual sphere.
 4. The laws of physics are the same in all inertial frames of reference.
 
 Causal Relativity introduces **Casual Geometry** a framework without a time dimension. 

@@ -146,7 +146,7 @@ The **Causal Geometry** equations herein have preliminarily been validated consi
 
 For example, **simultaneity**  without time in **Causal Geometry** creates an entirely new geometry allowing for **simultaneity** to be solved in 3D space without a time dimension. Additionally the Casual Relativity interpretation of unrelate phenomena like velocity-dependent (SR) and gravity-dependent (GR) time dilation are unified with a single spatial interpretation using and a single simplfied **Causal Geometry** equation for 3D geometry instead of two seperste equations using spacetime tensors.  
 
-Causal Relativity even produces equations resolving singularities - black holes/Big Bang - in Relativity without requiring a quantum theory of gravity.
+Without time **Causal Relativity** produces equations resolving singularities in Relativity - black holes/Big Bang - without requiring a quantum theory of gravity.
 
 ---
 

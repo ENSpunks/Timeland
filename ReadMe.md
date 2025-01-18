@@ -1,9 +1,9 @@
 ## **Theory of Causal Relativity: Unifying Relativity without Time**
 
-John Doe  
-Independent Researcher  
-[email protected]  
-https://url.com
+Punks
+Cypherpunks
+enspunks.eth
+https://enspunks.eth.link
 
 ---
 

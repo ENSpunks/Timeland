@@ -18,7 +18,7 @@ The **Theory of Causal Relativity** introduces a new **Causal Geometry** that in
 
 ### **Introduction**
 
-The paper proposes **Causal Relativity**, a novel interpretation of relativity where time is not a dimension but causality is represented through spatial interactions. The **TimeLand** analogy from *Flatland* helps visualize this concept in 3D space.
+The paper proposes **Causal Relativity**, a novel interpretation of relativity where time is not a dimension but causality is represented through spatial interactions. 
 
 ---
 
@@ -97,9 +97,7 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 ### **Appendix**
 
-- List of phenomena with equations for further reference, focusing on how they are reconceptualized in Causal Geometry.
+- List 
 
 ### **References**
-
-- Include key citations from your list to support your theoretical framework, focusing on relativity and spatial interpretations.
 

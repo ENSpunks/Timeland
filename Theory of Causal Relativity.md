@@ -2,10 +2,10 @@
 
 ---
 
-Punks  
-Cypherpunks  
-enspunks.eth  
-https://enspunks.eth.link  
+Name  
+Title  
+Email 
+Website
 
 ---
 
@@ -120,7 +120,9 @@ Causal Relativity translates the mathematics of 4D spacetime into 3D causal geom
 
 Note that some concepts like the event horizon or the energy-momentum tensor are theoretical developments to indicate how they might be conceptualized spatially.
 
+---
 
+##### Mass+Light+Gravity
 
 | **Causal Geometry** | **Phenomenon**                  | **Original Equation**                           | **Causal Relativity Equation**                          |
 |---------------------|---------------------------------|------------------------------------------------|---------------------------------------------------------|
@@ -130,23 +132,15 @@ Note that some concepts like the event horizon or the energy-momentum tensor are
 
 ---
 
-##### Mass+Light+Gravity
-
-| **Causal Geometry** | **Phenomenon** | **Spacetime Equations** | **Causal Relativity Equations** |
-|---------------------|----------------|-----------------------|-------------------------------|
-| **Mass+Light+Gravity** | **Holographic Principle** | \( S = \frac{A}{4l_p^2} \) | \( S = \frac{\pi r^2}{l_p^2} \) |
-
----
-
 #### **Conclusion**
 
-The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity outcomes through an entirely new framework and interpretation.
+The **Causal Geometry** equations herein have preliminarily been validated consistent with General and Special Relativity predictions and outcomes through **Causal Relativity**.
 
-One example is **simultaneity**, Causal Geometry creates an entirely new geometrical framework for **simultaneity** without a time dimension or coordinate.  Similiarly, Casual Relativity unifies velocity-dependent and gravity-dependent equations into a single, coherent Causal Geometry equation for 3D space, providing a new geometry for calculating dilation in 3D space without a spacetime tensor. 
+**Causal Relativity** reinterprets both Special and General Relativity with **Causal Geometry** by eliminating spacetime and the time dimension altogether resulting in simplified equations with purely spatial and causal interpretations.
 
-Causal Relativity reinterprets both Special and General Relativity by eliminating the time dimension, resulting in simplified equations within a three-dimensional spatial framework that remain consistent with both SR and GR. 
+For example, **simultaneity**  without time in **Causal Geometry** creates an entirely new geometry allowing for **simultaneity** to be solved in 3D space without a time dimension. Additionally the Casual Relativity interpretation of unrelate phenomena like velocity-dependent (SR) and gravity-dependent (GR) time dilation are unified with a single spatial interpretation using and a single simplfied **Causal Geometry** equation for 3D geometry instead of two seperste equations using spacetime tensors.  
 
-More speculatively, Causal Relativity offers a potential resolution to singularities - black holes/Big Bang - in Relativity without requiring a quantum theory of gravity.
+Without time **Causal Relativity** produces equations resolving singularities in Relativity - black holes/Big Bang - without requiring a quantum theory of gravity.
 
 ---
 

@@ -43,7 +43,7 @@ For Newton, **time** is an independent variable, and **space** is absolute. We m
 2. The speed of light \( c \) in a vacuum is constant and independent of the motion of the observer or source.
 3. Space and time are unified into 4D spacetime, which curves under mass/energy.
 
-Einstein's theory introduces **spacetime curvature**, where time and space are treated as inseparable components of a 4D continuum. However, this continuum is **modified** in **causal relativity** to treat **space** as 3D, with **time** acting as a **projection** into the spatial framework.
+Einstein's theory introduces **spacetime curvature**, where time and space are treated as inseparable components of a 4D continuum. 
 
 ---
 
@@ -51,9 +51,9 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 1. The laws of physics are the same in all inertial frames of reference.
 2. Space is 3D and is curved by energy with mass.
-3. Casuality unifies mass, light and gravity in space without time.
+3. Mass, light and gravity are unified into causality independent of time.
 
-Causal Relativity introduces **Causal Geometry**, a framework without a time dimension. 
+**Causal Relativity** introduces **Causal Geometry** a framework where causality is described spatially without a time dimension. 
 
 ---
 

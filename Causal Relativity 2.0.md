@@ -103,4 +103,3 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 - Include key citations from your list to support your theoretical framework, focusing on relativity and spatial interpretations.
 
-This structure emphasizes the simplicity and visual clarity of using spheres to conceptualize relativity effects, while also providing a clear path from individual to combined phenomena in your new geometric framework.

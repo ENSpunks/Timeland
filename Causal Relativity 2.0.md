@@ -119,7 +119,8 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 ### **Appendix**
 
-- Casual Shell Diagrams
+- Papers
+- Causal Shell Diagrams
 
 ### **References**
 

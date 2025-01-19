@@ -47,11 +47,11 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 **Causal Geometry** uses a visually  framework of overlapping spheres called Casual Spheres which create geometric causality in 3D space without time for any body or n-body relative.
 
-- **Mass Cores**: Represent mass effects, analogous to FutureSpace or quantized mass.
-- **Light Shells**: Represent light propagation, seen as PastSpace.
-- **Gravity Shells**: Describe gravitational effects, akin to Present in spatial terms.
+- **Mass Cores**: Represent mass and its effects.
+- **Light Shells**: Represent light propagation and its effects.
+- **Gravity Shells**: Represent and its gravitational effects.
 
-These spheres interact to form the geometry of relativity effects without time.
+These spheres overlap to form a natural causal geometry in space without time consistent with relativistic effects.
 
 ---
 

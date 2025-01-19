@@ -4,7 +4,7 @@
 ---
 
 **Will Brown**
-Original Publication Date: January 20, 2025.
+**January 20, 2025**
 
 ---
 

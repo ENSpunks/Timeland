@@ -40,7 +40,7 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 - Laws of physics are frame-independent.
 - Space is 3D and curved by mass and energy.
-- Causality is described spatially, independent of time.
+- Causality is a constant relative to each observer in space independent of time.
 
 ---
 

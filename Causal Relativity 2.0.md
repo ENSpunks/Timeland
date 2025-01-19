@@ -3,10 +3,8 @@
 
 ---
 
-**Name**  
-**Title**  
-**Email**  
-**Website**
+**Will Brown**
+Original Publication Date: January 20, 2025.
 
 ---
 
@@ -45,9 +43,9 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 ---
 
-### **Causal Spheres**
+### **Causal Sphere Diagrams**
 
-**Causal Geometry** uses three spheres:
+**Causal Geometry** uses a visually  framework of overlapping spheres called Casual Spheres which create geometric causality in 3D space without time for any body or n-body relative.
 
 - **Mass Cores**: Represent mass effects, analogous to FutureSpace or quantized mass.
 - **Light Shells**: Represent light propagation, seen as PastSpace.
@@ -121,7 +119,30 @@ Causal Geometry reinterprets relativity, offering potentially simpler models for
 
 ### **Appendix**
 
-- List 
+- Casual Shell Diagrams
 
 ### **References**
 
+- Abbott, E. A. (1884). *Flatland: A Romance of Many Dimensions*. London: Seeley & Co.
+  
+- Newton, I. (1687). *Philosophiæ Naturalis Principia Mathematica*. London: Royal Society.
+
+- Einstein, A. (1905). "Zur Elektrodynamik bewegter Körper" (On the Electrodynamics of Moving Bodies). *Annalen der Physik*, 322(10), 891-921.
+
+- Einstein, A. (1916). "Die Grundlage der allgemeinen Relativitätstheorie" (The Foundation of the General Theory of Relativity). *Annalen der Physik*, 354(7), 769-822.
+
+- Lorentz, H. A., Einstein, A., Minkowski, H., & Weyl, H. (1952). *The Principle of Relativity: A Collection of Original Memoirs on the Special and General Theory of Relativity*. Dover Publications.
+
+- Schwarzschild, K. (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" (On the Gravitational Field of a Mass Point According to Einstein's Theory). *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften*, 189-196.
+
+- Eddington, A. S. (1920). *Space, Time and Gravitation: An Outline of the General Relativity Theory*. Cambridge University Press.
+
+- Misner, C. W., Thorne, K. S., & Wheeler, J. A. (1973). *Gravitation*. W.H. Freeman.
+
+- Feynman, R. P., Leighton, R. B., & Sands, M. (1963). *The Feynman Lectures on Physics*. Addison-Wesley.
+
+- Weinberg, S. (1972). *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*. John Wiley & Sons.
+
+- Will, C. M. (1993). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
+
+- Susskind, L. (2008). *The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics*. Little, Brown and Company.

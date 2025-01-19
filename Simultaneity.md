@@ -1,4 +1,4 @@
-# Simultaneity without Spacetime
+# Simultaneity without Time
 
 ## Abstract
 

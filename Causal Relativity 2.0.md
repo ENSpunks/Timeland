@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ### **Abstract**
 
 The **Theory of Causal Relativity** introduces a new **Causal Geometry** that interprets physical phenomena in a purely spatial context, eliminating the need for a time dimension. This approach unifies concepts from Special and General Relativity into a three-dimensional framework.

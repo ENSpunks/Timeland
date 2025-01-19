@@ -26,23 +26,22 @@ The paper proposes **Causal Relativity**, a novel interpretation of relativity w
 
 #### **Newton's Postulates**:
 
-- Space and time are absolute and separate.
-- Gravity acts instantaneously.
-- Light speed varies with observers.
+1. Space and time are absolute and separate.
+2. Gravity acts instantaneously
+3. Light speed varies with observers.
 
 #### **Einstein's Postulates**:
 
-- Physics laws are consistent across inertial frames.
-- Light speed is constant.
-- Space and time form a 4D spacetime.
+1. Physics laws are consistent across inertial frames.
+2. Light speed is constant.
+3. Space and time form a 4D spacetime.
 
 #### **Causal Relativity Postulates**:
 
-- Laws of physics are frame independent.
-- Space is 3D and curved by mass, and mass releases energy as light.
-- Gravity and light move outward relative mass at the speed of causality.
-- Causality is a constant relative to each observer in space independent of time.
-- Causality can be described spatially from any frame without time.
+1. Laws of physics are frame independent.
+2. Mass is energy that causes space to curve and releases energy as light.
+3. Relative to curvature in space gravity and/or light move outward at a constant relative to the location in space.
+4. Causality are interactions of mass, light, and gravity in space relative to any frame without time.
 
 ---
 

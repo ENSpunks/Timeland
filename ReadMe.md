@@ -49,10 +49,9 @@ Einstein's theory introduces **spacetime curvature**, where time and space are t
 
 ##### **Causal Relativity Postulates**:
 
-1. All quantized energy is embedded in a three-dimensional space.
-2. Massless quanta, or photons, propagate outward from quantized mass creating an intrinsic causal sphere.
-3. Mass curves 3D space which propagates outward from mass creating an intrinsic causal sphere.
-4. The laws of physics are the same in all inertial frames of reference.
+1. The laws of physics are the same in all inertial frames of reference.
+2. Space is 3D and is curved by energy with mass.
+3. Casuality unifies mass, light and gravity in space without time.
 
 Causal Relativity introduces **Causal Geometry**, a framework without a time dimension. 
 
